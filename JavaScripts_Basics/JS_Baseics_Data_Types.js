@@ -19,17 +19,22 @@ symbol => unique
 // console.log(typeof (valueInNumber));
 // console.log(valueInNumber);
 
-let isLoggedIn = 0;
+// let isLoggedIn = 0;
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
-console.log(isLoggedIn)
-console.log(typeof booleanIsLoggedIn)
-console.log(typeof isLoggedIn)
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn)
+// console.log(isLoggedIn)
+// console.log(typeof booleanIsLoggedIn)
+// console.log(typeof isLoggedIn)
 
-let someNumber = 44
-let stringNumber = String(someNumber)
+// let someNumber = 44
+// let stringNumber = String(someNumber)
 
-console.log(stringNumber)
-console.log(typeof stringNumber)
-console.log(typeof someNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+// console.log(typeof someNumber)
+
+let str1 = "Hello!!!"
+let str2 = " Mudassir Sharif"
+let str3 = str1 + str2
+console.log(str3)
